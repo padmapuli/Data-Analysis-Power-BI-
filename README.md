@@ -5,4 +5,5 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
       We need to analyse the  Key Indiacators for Pizza Sales Data to gain Insights helpful for business performance.The project involves analyzing sales trends,      identifying best-selling and worst-selling items, and examining order patterns over time.
 
       ## Dataset Used
-       [Dataset](data/pizza_sales.csv)
+      Dataset: <a href "https://github.com/padmapuli/Data-Analysis-Power-BI-/blob/main/pizza_sales.csv" </a>
+       
