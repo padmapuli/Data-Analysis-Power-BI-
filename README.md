@@ -8,10 +8,10 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
  <a href="https://github.com/padmapuli/Data-Analysis-Power-BI-/blob/main/pizza_sales.csv">Dataset</a>
 
 # KPI'S Requirement
--- Total Revenue: Sum of total_price of all pizzas sold
-2.Average Order Value: Dividing total revenue with total number of orders
-3.Total Pizzas Sold: Sum of quantities of all pizzas sold.
-4.Total Orders: Total number of orders placed
+- Total Revenue: Sum of total_price of all pizzas sold  
+- Average Order Value: Dividing total revenue with total number of orders
+-  Total Pizzas sold: Sum of quantities of all pizzas sold  
+-  Total Orders: Total number of orders placed
 5.Average Pizzas sold per order: Total number of pizzas sold by total number of orders
  
       
