@@ -12,7 +12,8 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
 - Average Order Value: Dividing total revenue with total number of orders
 -  Total Pizzas sold: Sum of quantities of all pizzas sold  
 -  Total Orders: Total number of orders placed
-5.Average Pizzas sold per order: Total number of pizzas sold by total number of orders
+-  Average Pizzas Per Order: Dividing total number of pizzas sold by total number of orders  
+  
  
       
 
