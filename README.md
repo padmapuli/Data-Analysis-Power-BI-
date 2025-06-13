@@ -15,7 +15,9 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
 -  Total Orders: Total number of orders placed
 -  Average Pizzas Per Order: Dividing total number of pizzas sold by total number of orders
 
-# Problem St
+# Problem Statement
+   We would like to visualise the various aspects of pizza sales data to gain insights and to understand jey trends. We have identified the following requirements 
+   for creating charts.
 
        
   
