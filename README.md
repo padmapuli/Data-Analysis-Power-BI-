@@ -36,6 +36,8 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
   
 # Dasboard images
 https://github.com/padmapuli/Data-Analysis-Power-BI-/blob/main/Pizza%20Sales%20Power%20Bi%20Dashboard%201.png
+![Pizza Sales Power Bi Dashboard 1](https://github.com/user-attachments/assets/cfdf5f98-97a5-44be-a56c-98fbbd410258)
+
   
   
 
