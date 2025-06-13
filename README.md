@@ -39,8 +39,11 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
 
 ![Pizza Sales Power Bi Dashboard 1](https://github.com/user-attachments/assets/cfdf5f98-97a5-44be-a56c-98fbbd410258)
 
-  
-  
+
+# Process
+   Two dashboards are created. First dahboard shows visualizations on monthly and daily trends of total orders, percentage of sales by pizza category
+   and pizza size. Second dashboard shows the visualizations of both top and bottom 5 pizzas based on revenue, quantity and orders. KPI"S are also shown
+   in the dashboards. Add slicers for the fields pizza category and order date.
 
        
   
