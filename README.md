@@ -16,7 +16,7 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
 -  Average Pizzas Per Order: Dividing total number of pizzas sold by total number of orders
 
 # Problem Statement
-   We would like to visualise the various aspects of pizza sales data to gain insights and to understand jey trends. We have identified the following requirements 
+   We would like to visualise the various aspects of pizza sales data to gain insights and to understand Key trends. We have identified the following requirements 
    for creating charts. 
 # Charts
 - Daily Trend for total orders: Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will helps us to identify
@@ -33,6 +33,9 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
   total quantity, total orders. This chart will help to identify the most popular pizzas.
 - Bottom 5 sellers by revenue,total quantity and total orders: Create a bar chart showcasing the bottom 5 worst selling pizzas based on revenue, total quantity
   and total orders. It helps to identify the underperforming pizzas
+
+  # Dasboard images
+  
   
 
        
