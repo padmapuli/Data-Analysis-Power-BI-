@@ -23,7 +23,17 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
   any patterns in order volumes on a daily basis.
 - Monthly trend for total ordres: Create a line chart that illustrates the hourly treend of total orders throught the day. The chart will helps us to identify
   peak hours or periods of high order activity.
-- 
+- Percentage of sales by pizza category: Create a pie chart that shows the percentage of sales across different pizza categories. It helps to understand the
+  contribution of pizza categories in overall sales.
+- Percentage of sales by pizza size: Generate a pie chart that represents the percentage of sales attributed to different pizza sizes. It helps to understand
+  the customer preferences on sizes of pizza and their impact on sales.
+- Total pizzas sold by pizza category: Create a funnel chart that presents the total number of pizzas sold for each piza category. This chart will allow us
+  to compare the sales performance of different pizza categories.
+- Top 5 pizzas best sellers by revenue,total quantity and total orders: Create a bar chart highlighting the top 5 best selling pizzas based on revenue,
+  total quantity, total orders. This chart will help to identify the most popular pizzas.
+- Bottom 5 sellers by revenue,total quantity and total orders: Create a bar chart showcasing the bottom 5 worst selling pizzas based on revenue, total quantity
+  and total orders. It helps to identify the underperforming pizzas
+  
 
        
   
