@@ -35,6 +35,7 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
   and total orders. It helps to identify the underperforming pizzas
   
 # Dasboard images
+https://github.com/padmapuli/Data-Analysis-Power-BI-/blob/main/Pizza%20Sales%20Power%20Bi%20Dashboard%201.png
   
   
 
