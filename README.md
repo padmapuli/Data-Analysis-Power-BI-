@@ -33,8 +33,8 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
   total quantity, total orders. This chart will help to identify the most popular pizzas.
 - Bottom 5 sellers by revenue,total quantity and total orders: Create a bar chart showcasing the bottom 5 worst selling pizzas based on revenue, total quantity
   and total orders. It helps to identify the underperforming pizzas
-
-  # Dasboard images
+  
+# Dasboard images
   
   
 
