@@ -17,7 +17,13 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
 
 # Problem Statement
    We would like to visualise the various aspects of pizza sales data to gain insights and to understand jey trends. We have identified the following requirements 
-   for creating charts.
+   for creating charts. 
+# Charts
+- Daily Trend for total orders: Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will helps us to identify
+  any patterns in order volumes on a daily basis.
+- Monthly trend for total ordres: Create a line chart that illustrates the hourly treend of total orders throught the day. The chart will helps us to identify
+  peak hours or periods of high order activity.
+- 
 
        
   
