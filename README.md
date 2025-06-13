@@ -45,6 +45,9 @@ A data analysis project exploring pizza sales aims to extract meaningful insight
    and pizza size. Second dashboard shows the visualizations of both top and bottom 5 pizzas based on revenue, quantity and orders. KPI"S are also shown
    in the dashboards. Add slicers for the fields pizza category and order date.
 
+ **INSIGHTS: Pizza Sales are higher during fridays and weekends. Maximum orders are in the month of January and July. Pizza category of classic and large
+             size pizza contributes to maximum sales.
+
        
   
  
